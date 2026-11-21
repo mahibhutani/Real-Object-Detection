@@ -1,0 +1,14 @@
+.venv/
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+*.mp4
+*.avi
+*.mov
+*.mkv
+*.pt
+*.sqlite
+*.db
+outputs/processed_videos/*
+outputs/screenshots/*
+outputs/logs/*
